@@ -1,2 +1,2 @@
 # dsss_hw5
-DSSS hw5 repository to practice git 
+https://docs.google.com/presentation/d/1FAhNOJgfndZq-NJARMozgj2sgGkzi1ZcVFm04voESpg/edit?usp=sharing
